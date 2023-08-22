@@ -104,7 +104,8 @@ You've successfully integrated the API key into your Java application for Projec
 
 Ensure you read and follow the API provider's documentation for any usage limitations, rate limits, and best practices to optimize your application's performance and reliability.
 
-#cricbuzz URL:-
+/* cricbuzz URL*/
+
 The URL for Cricbuzz is: https://www.cricbuzz.com/
 
 Cricbuzz is a popular and comprehensive online platform dedicated to providing real-time cricket news, scores, live commentary, statistics, and analysis for cricket enthusiasts worldwide. It covers international cricket matches, domestic leagues, and tournaments across various formats, including Test matches, One Day Internationals (ODIs), and Twenty20 (T20) matches. With its user-friendly interface and up-to-date information, Cricbuzz serves as a go-to destination for cricket fans to stay updated on match progress, player performances, team rankings, and other cricket-related content.
