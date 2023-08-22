@@ -8,7 +8,7 @@
 
 ![image](https://github.com/SumitKumargiri/cric-world-java-API-project/assets/96234273/1999eb05-3ea2-4e0b-b75d-71c391c5efb2)
 
-#click the vennue button then after get the information
+#click the venue button then after getting the information
 
 ![image](https://github.com/SumitKumargiri/cric-world-java-API-project/assets/96234273/a6c4f287-bb1c-4d08-bd21-d7da0f74358a)
 
@@ -16,15 +16,15 @@
 
 ![image](https://github.com/SumitKumargiri/cric-world-java-API-project/assets/96234273/f3cf7200-25fb-447d-9939-68033dd686a0)
 
-#Recently started matches infomation
+#Recently started matches information
 
 ![image](https://github.com/SumitKumargiri/cric-world-java-API-project/assets/96234273/b2c4c85e-7418-468c-9718-9f823a035292)
 
-#find new regarding matches
+#find news regarding matches
 
 ![image](https://github.com/SumitKumargiri/cric-world-java-API-project/assets/96234273/6cef3bee-6a2a-4cc3-8f8f-bdc046bb5237)
 
-#search the player name
+#search the player's name
 
 ![image](https://github.com/SumitKumargiri/cric-world-java-API-project/assets/96234273/ed1694ef-8641-4967-b616-85f0bbf04d8a)
 
@@ -38,7 +38,7 @@ Project CricWold is a cricket-related application that aims to provide users wit
 
 **Step 1: Obtain an API Key**
 
-Before you begin, you need to sign up for access to a cricket API service that provides the necessary data. Once registered, you will receive an API key that will be used to authenticate your requests.
+Before you begin, you need to sign up for access to a Cricket API service that provides the necessary data. Once registered, you will receive an API key that will be used to authenticate your requests.
 
 **Step 2: Set Up Your Java Environment**
 
@@ -94,7 +94,7 @@ public class CricWoldAPI {
 
 **Step 6: Run Your Application**
 
-Run your Java application using the IDE's built-in tools. The application will make an API call using the provided API key and retrieve the data from the cricket API service.
+Run your Java application using the IDE's built-in tools. The application will make an API call using the provided API key and retrieve the data from the Cricket API service.
 
 Remember to handle exceptions properly, implement appropriate error handling, and consider utilizing multi-threading or asynchronous programming for a smoother user experience.
 
@@ -104,7 +104,7 @@ You've successfully integrated the API key into your Java application for Projec
 
 Ensure you read and follow the API provider's documentation for any usage limitations, rate limits, and best practices to optimize your application's performance and reliability.
 
-#cricbuzz URL
+#cricbuzz URL:-
 The URL for Cricbuzz is: https://www.cricbuzz.com/
 
 Cricbuzz is a popular and comprehensive online platform dedicated to providing real-time cricket news, scores, live commentary, statistics, and analysis for cricket enthusiasts worldwide. It covers international cricket matches, domestic leagues, and tournaments across various formats, including Test matches, One Day Internationals (ODIs), and Twenty20 (T20) matches. With its user-friendly interface and up-to-date information, Cricbuzz serves as a go-to destination for cricket fans to stay updated on match progress, player performances, team rankings, and other cricket-related content.
